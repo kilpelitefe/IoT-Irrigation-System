@@ -1,4 +1,4 @@
-![Project Design](PCB1_3D_View.png)
+
 # IoT-Irrigation-System
 ESP32 based automated irrigation system with soil moisture monitoring
 
@@ -32,6 +32,8 @@ This project is a smart, **ESP32-driven IoT solution** designed to optimize wate
 * **IDE:** Arduino IDE / VS Code
 
 --
+
+![Project Design](PCB1_3D_View.png)
 
 ## 📐 Project Structure
 ```text

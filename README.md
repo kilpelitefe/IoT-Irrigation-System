@@ -1,4 +1,4 @@
-![Project Design](PCB1_3D_Wiew.png)
+![Project Design](PCB1_3D_View.png)
 # IoT-Irrigation-System
 ESP32 based automated irrigation system with soil moisture monitoring
 
